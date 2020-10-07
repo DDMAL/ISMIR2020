@@ -8,6 +8,8 @@ permalink: /sponsors/
 
 [Call for Sponsors](#call-for-sponsors)
 
+[WiMIR Sponsorship Opportunities](#wimir-sponsorship-opportunities)
+
 ---
 
 # Spotify 
@@ -367,7 +369,7 @@ For more information, please contact [ismir2020-sponsorship@ismir.net](mailto:is
 
 <br>
 
-# Women in MIR (WiMIR) Sponsorship Opportunities
+# WiMIR Sponsorship Opportunities
 
 
 Sponsors are encouraged to support a diverse and inclusive MIR community by contributing to WiMIR. These funds go primarily to travel awards. Other initiatives are welcomed. WiMIR sponsorship offers the following benefits:
