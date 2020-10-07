@@ -4,6 +4,21 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
+[Spotify - Virtual Booth](#spotify)
+
+[Call for Sponsors](#call-for-sponsors)
+
+---
+
+# Spotify
+
+Content coming up soon.
+
+---
+
+# Call for sponsors
+
+
 ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and Bronze levels described below. By taking this opportunity to become a proud sponsor of the conference, you can showcase your company’s latest products to an international community of MIR researchers and practitioners, recruit top technical talent, and learn about state-of-the-art research and technologies in MIR.
 
 <br>

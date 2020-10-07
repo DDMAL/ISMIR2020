@@ -6,6 +6,36 @@ permalink: /WiMIR/
 # background_position: 0% 55%
 ---
 
+[WiMIR Grants](#wimir-grants)
+
+[WiMIR Keynote](#wimir-keynote)
+
+[Meetup Sessions](#wimir-meet-up-sessions)
+
+[WiMIR Sponsors](#wimir-sponsors)
+
+---
+
+# WiMIR Grants
+
+This year, WiMIR@ISMIR grants will cover the following: 
+
+1. Registration grants
+2. Publishing fee grants
+3. Childcare grants
+
+These are not mutually exclusive and you can qualify for all three. 
+
+Registration and publication fees can be waived or refunded if they have already been paid. 
+
+These grants are intended to cover extra childcare costs during the conference, including childcare that might otherwise have been unpaid (partner, spouse, grandparent, etc.) 
+
+Priority deadline is August 30. Applications received after that deadline will be reviewed if funds are still available. 
+
+[Apply here](https://bit.ly/WiMIRgrants2020)
+
+---
+
 # WiMIR Keynote
 ## Performance Matters: 
 ### Beyond the current conception of musical performance in MIR
@@ -20,7 +50,9 @@ permalink: /WiMIR/
 
 *Johanna’s research focuses on interdisciplinary approaches to the study of musical performance. Primarily, she examines the ways in which recorded performances can be used to study performance practice and develops computational tools to facilitate this. Her work draws on the disciplines of music, computer science, and psychology, and has been funded by the Social Sciences and Humanities Research Council of Canada (SSHRC), the Google Faculty Research Awards program and the National Endowment for the Humanities (NEH) Digital Humanities program.*
 
-# Women in MIR meet up sessions
+---
+
+# WiMIR meet up sessions
 
 Each WiMIR Meet-up Session will be an informal Q&A-type drop-in event akin to an “office hour” lasting about 45 minutes. In these sessions, participants will have the opportunity to talk with a notable woman in the field.
 
@@ -57,8 +89,9 @@ Blocks were scheduled to ensure:
 - Rebecca Fiebrink
 - Anja Volk
 
+---
 
-# Sponsors
+# WiMIR Sponsors
 
 We thank our generous WiMIR sponsors for 2020
 
@@ -85,3 +118,5 @@ We thank our generous WiMIR sponsors for 2020
 <br>
 
 ![Pandora]({{site.baseurl}}/assets/img/wimir/sponsors/SiriusxmPandora.png)
+
+---

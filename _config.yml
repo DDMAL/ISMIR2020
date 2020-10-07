@@ -21,12 +21,10 @@ social:
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
   - {name: 'Program', link: 'https://program.ismir2020.org/calendar'}
-  - {name: 'For Participants', link: '/participants'}
-  - {name: 'Registration', link: '/registration'}
-  - {name: 'Dates', link: '/dates'}
-  - {name: 'Events', link: '/events'}
+  - {name: 'For attendees', link: '/attendees'}
+  - {name: 'For presenters', link: '/presenters'}
   - {name: 'Organizers', link: '/organizers'}
-  - {name: 'Call for Sponsors', link: '/sponsors'}
+  - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'WiMIR', link: '/WiMIR'}
 
 tagline: >

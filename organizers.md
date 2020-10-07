@@ -1,10 +1,18 @@
 ---
 layout: page
-title: ISMIR2020 Chairs
+title: Organizers
 permalink: /organizers/
 hero_background: centremontroyal.jpg
 background_position: 0% 44%
 ---
+
+[Chairs](#ismir-2020-chairs)
+
+[Volunteers](#volunteers)
+
+---
+
+# ISMIR 2020 Chairs
 
 | General co-chairs  |                                                                                                |
 |:------------------:|:-----------------------------------------------------------------------------------------------|
@@ -76,3 +84,9 @@ background_position: 0% 44%
 | Volunteers       |                                                                                                |
 |:----------------:|:-----------------------------------------------------------------------------------------------|
 | Caroline Traube  | ![Caroline Traube's picture]({{site.baseurl}}/assets/img/organizers/caroline_100px.jpg "Caroline Traube") |
+
+---
+
+# Volunteers
+
+List of volunteers coming up soon.
