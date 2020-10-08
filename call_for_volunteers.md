@@ -5,14 +5,22 @@ permalink: /call_for_volunteers/
 img: volunteers.jpg
 summary: ISMIR 2020 is looking for volunteers!
 ---
- 
+
+# Update
+
+The call for volunteers is **closed** now. 
+
+Thank you to all of our 35 volunteers who offered their help during ISMIR 2020!
+
+# Call for volunteers
+
 For the next ISMIR conference, which will be hosted online, we are looking for **20 volunteers** from all around the world.
 
 The volunteers will help to support the 24-hour schedule over the 6 days of the conference, from 10-16 October 2020. 
 
 Each volunteer will cover **three 4-hour shifts**. 
 
-If you are interested in volunteering for ISMIR 2020, please fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=7O9-0kcq50uYHg-Jd_ox2Jg0mUU3u6ZIjMwHnK9F5nFURDVPUThEMVcxRThHQ1dDS0NaUEJVWFhGWC4u).
+If you are interested in volunteering for ISMIR 2020, please fill in this **form** (closed).
  
 We will be accepting applications until 15 September 2020, however, we may close them sooner if we have enough people. Please apply soon if you are interested! 
 
