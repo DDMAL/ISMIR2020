@@ -30,6 +30,10 @@ During the tutorial, attendees will receive:
 
 **Lynn Root** is a Staff Engineer at Spotify and resident FOSS evangelist. She is a seasoned speaker on building and maintaining distributed systems, and maintains Spotify's audio processing framework. Lynn is a global leader of diversity in the Python community, and the former Vice Chair of the Python Software Foundation Board of Directors. When her hands are not on a keyboard, they are usually holding a bass guitar.
 
+**Dan Simon** is a Senior Data Engineer at Spotify, where he’s contributed to a number of efforts including music recommendations and personalized playlists, experimentation infrastructure, and audio processing frameworks.  He has a B.S. in Computer Science from Stevens Institute of Technology.
+
+**Shireen Kheradpey** is a Machine Learning Infrastructure Engineer at Spotify where she works on audio processing tools. She holds a BS degree from Boston University where she dual majored in Biomedical Engineering and Mechanical Engineering. Currently streaming the Hamilton soundtrack on Spotify.
+
 ## Tutorial 2 (T2A / T2B)
 
 <div class="tutorial-subtitle">
