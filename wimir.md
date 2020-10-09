@@ -6,10 +6,41 @@ permalink: /WiMIR/
 # background_position: 0% 55%
 ---
 
-# Performance Matters
-## Beyond the current conception of musical performance in MIR
+[WiMIR Grants](#wimir-grants)
+
+[WiMIR Keynote](#wimir-keynote)
+
+[Meetup Sessions](#wimir-meet-up-sessions)
+
+[WiMIR Sponsors](#wimir-sponsors)
+
 ---
-### Johanna Devaney, Brooklyn College
+
+# WiMIR Grants
+
+This year, WiMIR@ISMIR grants will cover the following: 
+
+1. Registration grants
+2. Publishing fee grants
+3. Childcare grants
+
+These are not mutually exclusive and you can qualify for all three. 
+
+Registration and publication fees can be waived or refunded if they have already been paid. 
+
+These grants are intended to cover extra childcare costs during the conference, including childcare that might otherwise have been unpaid (partner, spouse, grandparent, etc.) 
+
+Priority deadline is August 30. Applications received after that deadline will be reviewed if funds are still available. 
+
+[Apply here](https://bit.ly/WiMIRgrants2020)
+
+---
+
+# WiMIR Keynote
+## Performance Matters: 
+### Beyond the current conception of musical performance in MIR
+---
+### Johanna Devaney, Brooklyn College and the Graduate Center, CUNY
 
 **Abstract**: This talk will reflect on what we can observe about musical performance in the audio signal and where MIR techniques have succeeded and failed in enhancing our understanding of musical performance. Since its foundation, ISMIR has showcased a range of approaches for studying musical performance. Some of these have been explicit approaches for studying expressive performance while others implicitly analyze performance with other aspects of the musical audio.  Building on my own work developing tools for analyzing musical performance, I will consider not only the assumptions that underlie the questions we ask about performance but what we learn and what we miss in our current approaches to summarizing performance-related information from audio signals.  I will also reflect on a number of related questions, including what do we gain by summarizing over large corpora versus close reading of a select number of recordings. What do we lose? What can we learn from generative techniques, such as those applied in style transfer? And finally, how can we integrate these disparate approaches in order to better understand the role of performance in our conception of musical style?
 
@@ -19,7 +50,9 @@ permalink: /WiMIR/
 
 *Johanna’s research focuses on interdisciplinary approaches to the study of musical performance. Primarily, she examines the ways in which recorded performances can be used to study performance practice and develops computational tools to facilitate this. Her work draws on the disciplines of music, computer science, and psychology, and has been funded by the Social Sciences and Humanities Research Council of Canada (SSHRC), the Google Faculty Research Awards program and the National Endowment for the Humanities (NEH) Digital Humanities program.*
 
-# Women in MIR meet up sessions
+---
+
+# WiMIR meet up sessions
 
 Each WiMIR Meet-up Session will be an informal Q&A-type drop-in event akin to an “office hour” lasting about 45 minutes. In these sessions, participants will have the opportunity to talk with a notable woman in the field.
 
@@ -56,8 +89,9 @@ Blocks were scheduled to ensure:
 - Rebecca Fiebrink
 - Anja Volk
 
+---
 
-# Sponsors
+# WiMIR Sponsors
 
 We thank our generous WiMIR sponsors for 2020
 
@@ -84,3 +118,5 @@ We thank our generous WiMIR sponsors for 2020
 <br>
 
 ![Pandora]({{site.baseurl}}/assets/img/wimir/sponsors/SiriusxmPandora.png)
+
+---

@@ -1,5 +1,5 @@
 ---
-title: We are looking for volunteers
+title: We are looking for volunteers (closed)
 order: 1
 more: True
 img: volunteers.jpg
@@ -7,7 +7,13 @@ background-color: F07D00
 link: /call_for_volunteers/
 summary: We are looking for 20 volunteers from all around the world. The volunteers will help to support the 24-hour schedule over the 6 days of the conference, from 10-16 October 2020.
 ---
- 
+
+# Update (8 October 2020)
+
+The call for volunteers is **closed** now. Thank you to all of our 35 volunteers that offered to help during ISMIR 2020!
+
+# Call for volunteers
+
 For the next ISMIR conference, which will be hosted online, we are looking for **20 volunteers** from all around the world.
 
 The volunteers will help to support the 24-hour schedule over the 6 days of the conference, from 10-16 October 2020. 
