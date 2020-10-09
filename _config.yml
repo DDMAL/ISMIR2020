@@ -21,10 +21,8 @@ social:
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
   - {name: 'Program', link: 'https://program.ismir2020.net'}
-  - {name: 'For Participants', link: '/participants'}
-  - {name: 'Registration', link: '/registration'}
-  - {name: 'Dates', link: '/dates'}
-  - {name: 'Events', link: '/events'}
+  - {name: 'For Attendees', link: '/attendees'}
+  - {name: 'For Presenters', link: '/presenters'}
   - {name: 'Organizers', link: '/organizers'}
   - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'WiMIR', link: '/WiMIR'}
