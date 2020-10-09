@@ -23,6 +23,7 @@ navigation: # Navigation links
   - {name: 'Program', link: 'https://program.ismir2020.net'}
   - {name: 'For Attendees', link: '/attendees'}
   - {name: 'For Presenters', link: '/presenters'}
+  - {name: 'Events', link: '/events'}
   - {name: 'Organizers', link: '/organizers'}
   - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'WiMIR', link: '/WiMIR'}
