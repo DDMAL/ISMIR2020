@@ -17,7 +17,7 @@ ISMIR is a non-profit organization which, among other things, oversees the organ
 ### Dr. Safiya Noble
 **Abstract**: In her recent best-selling book Algorithms of Oppression, Dr. Safiya Noble challenges the idea that “Big Tech” offers an equal playing field for all forms of ideas, identities, and activities. Her work argues that the combination of private interests, along with the monopoly status of a relatively small number of internet companies, leads to a limited understanding of how racism is created, maintained, and disseminated in everyday digital engagements. Data discrimination is a real social problem, and in this talk, Noble offers a powerful set of data points, examples, and provocations. She asserts we are just at the beginning of creating new paradigms of justice with the tech sector.
 
-![Safiya Noble's picture](/ISMIR2020/assets/img/keynote/SafiyaNoble.jpg "Safiya Noble")
+![Safiya Noble's picture]({{ site.baseurl}}/assets/img/keynote/SafiyaNoble.jpg "Safiya Noble")
 
 *Dr. Safiya Umoja Noble is an Associate Professor at the University of California, Los Angeles (UCLA) in the Department of Information Studies where she serves as the Co-Founder and Co-Director of the UCLA Center for Critical Internet Inquiry (C2i2). She also holds appointments in African American Studies and Gender Studies. She is a Research Associate at the Oxford Internet Institute at the University of Oxford and has been appointed as a Commissioner on the Oxford Commission on AI & Good Governance (OxCAIGG). She is a board member of the Cyber Civil Rights Initiative, serving those vulnerable to online harassment.*
 
