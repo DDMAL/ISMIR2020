@@ -22,7 +22,7 @@ hold:
 
 <br>
 
-| [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Open** |
+| [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Closed** |
 | Initial submission           | 22 September 2020       | |
 | Request for revision, if necessary             |  23-25 September 2020       | |
 | LBD notification       | 28 September 2020      | |

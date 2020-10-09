@@ -86,7 +86,7 @@ Each poster is scheduled to be presented in two 90 minute sessions scheduled 11.
 
 <br>
 
-| [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Open** |
+| [Call for Late-Breaking/Demo]({{ site.baseurl }}/call_for_lbd/)           | **Closed** |
 | Initial submission           | 22 September 2020       | |
 | Request for revision, if necessary             |  23-25 September 2020       | |
 | LBD notification       | 28 September 2020      | |
@@ -131,7 +131,7 @@ Each poster is scheduled to be presented in two 90 minute sessions scheduled 11.
 
 | [WiMIR Workshop](https://wimir.wordpress.com/2020/07/21/wimir-workshop-2020/)               | ~~10 October 2020~~ Multiple dates: 22 August, 5 September, 19 September, and 3 October 2020     |
 | WoRMS                         | **Cancelled**     |
-| [DLfM](https://dl.acm.org/conference/dlfm)                          | 16 October 2020     |
+| [DLfM](https://dlfm.web.ox.ac.uk/)                          | 16 October 2020     |
 | [NLP4MusA](https://sites.google.com/view/nlp4musa)                      | 16 October 2020     |
 | [HAMR]({{ site.baseurl }}/hamr/)                          | 16--17 October 2020 |
 
