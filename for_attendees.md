@@ -6,6 +6,8 @@ permalink: /attendees/
 # background_position: 0% 44%
 ---
 
+[Slack Invitations](#slack-invitations)
+
 [Code of Conduct](#ismir2020-code-of-conduct)
 
 [Participant guide]({{ site.baseurl }}/participant_guide)
@@ -13,6 +15,10 @@ permalink: /attendees/
 [Registration](#registration)
 
 ---
+
+# Slack Invitations
+
+If you registered for ISMIR and did not receive a Slack invitation, please ensure that the email address you used to register is still active and that the message is not in your spam folder. Contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) with any updates or concerns. Thank you!
 
 # ISMIR2020 Code of Conduct
 
