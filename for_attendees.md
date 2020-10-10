@@ -8,6 +8,8 @@ permalink: /attendees/
 
 [Code of Conduct](#ismir2020-code-of-conduct)
 
+[Participant guide]({{ site.baseurl }}/participant_guide)
+
 [Registration](#registration)
 
 ---
