@@ -4,7 +4,13 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-[Spotify - Virtual Booth](#spotify)
+[Our Sponsors](#our-sponsors)
+
+Virtual Booths:
+
+- [Spotify]({{ site.baseurl }}/spotify)
+
+[Virtual Promo Items](#virtual-promo-items)
 
 [Call for Sponsors](#call-for-sponsors)
 
@@ -12,189 +18,43 @@ permalink: /sponsors/
 
 ---
 
-# Spotify 
+# Our sponsors
 
-## Spotify Research
+{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
 
+# Virtual Promo Items
+## ISMIR 2020
 
-![Spotify research areas]({{ site.baseurl }}/assets/img/virtual-booth-spotify/image2.jpg "Spotify research areas")
+### Musixmatch
+ 
+-   [Zoom Backgrounds](https://drive.google.com/drive/u/2/folders/1w7ObwNVTp285YHe6yft8SmjFn0AvMBwO) for attendees
 
+### ARCloud
 
-![Spotify one company one culture]({{ site.baseurl }}/assets/img/virtual-booth-spotify/image5.jpg "Spotify one company one culture")
+-   [Link to Signup](https://console.acrcloud.com/signup) for a 14 day free trial (w/o needing to enter credit card info)
 
-![Spotify this is how we rock]({{ site.baseurl }}/assets/img/virtual-booth-spotify/image3.jpg "Spotify this is how we rock")
+### Cochlear.ai
 
+-   [Google Form ](https://docs.google.com/forms/d/e/1FAIpQLSeLpuyI6FNZv4aERO8YCAK6dmCWW-KJOQNxJQkG_rXNUjJCrw/viewform)
+-   $50 promotional credit for ISMIR participants
 
+### Musiio
 
-## 2021 Internships
+-   [Free Dataset](https://drive.google.com/drive/u/2/folders/1i68orq_MHYJQy_fprBdoWk1qtxKGzSqW) of 1000 audio files (music) tagged for free by Musiio
 
+### Steinberg
 
-![Spotify Summer 2021 Internships]({{ site.baseurl }}/assets/img/virtual-booth-spotify/image6.jpg "Spotify Summer 2021 Internships")
+-   15% Discount on Cubase Pro 10.5 with the code CUBASEISMIR2020 on [shop.steinberg.net](http://shop.steinberg.net/)
+    -   Offer available on the full retail version and full education version of Cubase Pro 10.5 from 11/10 to 23/10
+-   Education version available with a proof of eligibility (for Students, Teachers, ...)
 
-Learn more about the [2021 internship program](https://drive.google.com/file/d/1cbOxipsgFzzhnEw32QveGgzx9sEstlD8/view?usp=sharing).
+### Chordify
 
-<table>
-    <tr>
-        <td><strong>Role</strong></td>
-        <td><strong>Location/s</strong></td>
-        <td><strong>Research Area/s</strong></td>
-        <td><strong>Experience Needed</strong></td>
-    </tr>
-    <tr>
-        <td>Research Scientist - PhD Summer Internship</td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/research-scientist-phd-summer-internship/">NYC</a>, 
-            <a href="https://spotifyjobs.com/job/research-scientist-phd-summer-internship-2/">Boston</a>
-        </td>
-        <td>
-            <ul>
-                <li>Language Technologies</li>
-                <li>Human-Computer Interaction</li>
-                <li>Search & Recommendations</li>
-                <li>User Modeling</li>
-                <li>Machine Learning</li>
-                <li>Evaluation</li>
-                <li>Algorithmic Bias</li>
-            </ul>
-        </td>
-        <td>PhD Student</td>
-    </tr>
-    <tr>
-        <td>Research Scientist - Summer Internship</td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/research-scientist-summer-internship/">London</a>
-        </td>
-        <td>
-            <ul>
-                <li>Search & Recommendation</li>
-                <li>User Modeling</li>
-                <li>Machine Learning</li>
-                <li>Evaluation</li>
-            </ul>
-        </td>
-        <td>PhD Student</td>
-    </tr>
-    <tr>
-        <td>Research Scientist Audio Understanding - Summer Internship</td>
-        <td>
-            <a href="https://spotifyjobs.com/job/research-scientist-phd-summer-internship-5/">NYC</a>, 
-            <a href="https://spotifyjobs.com/job/research-scientist-phd-summer-internship-4/">Paris</a>, 
-            <a href="https://spotifyjobs.com/job/research-scientist-phd-summer-internship-3/">Berlin</a>
-        </td>
-        <td>Audio Intelligence</td>
-        <td>PhD Student</td>
-    </tr>
-    <tr>
-        <td>Machine Learning Engineer - Summer Internship</td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/machine-learning-engineer-summer-internship/">NYC</a>, 
-            <a href="https://www.spotifyjobs.com/job/machine-learning-engineer-summer-internship-2/">Boston</a>
-        </td>
-        <td>
-            <ul>
-                <li>Search & Recommendations</li>
-                <li>Language Technologies</li>
-                <li>User Modeling</li>
-            </ul>
-        </td>
-        <td>Masters or PhD Student</td>
-    </tr>
-    <tr>
-        <td>Data Scientist - Summer Internship</td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/data-scientist-summer-internship/">NYC</a>, 
-            <a href="https://www.spotifyjobs.com/job/data-scientist-summer-internship-2/">Boston</a>, 
-            <a href="https://www.spotifyjobs.com/job/data-scientists-summer-internship-2/">London</a>, 
-            <a href="https://www.spotifyjobs.com/job/data-scientists-summer-internship/">Stockholm</a>
-        </td>
-        <td>Data analysis & evaluation</td>
-        <td>Bachelor or Masters Student</td>
-    </tr>
-    <tr>
-        <td>Machine Learning Engineering - Summer Internship</td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/machine-learning-engineering-summer-internship-2/">London</a>, 
-            <a href="https://www.spotifyjobs.com/job/machine-learning-engineering-summer-internship/">Stockholm</a>
-        </td>
-        <td>ML for product</td>
-        <td>Bachelor or Masters Student</td>
-    </tr>
-</table>
-
-## Full-time openings
-
-<table>
-    <tr>
-        <td><strong>Role</strong></td>
-        <td><strong>Location</strong></td>
-        <td><strong>Topic Area/s</strong></td>
-        <td><strong>Experience Needed</strong></td>
-    </tr>
-    <tr>
-        <td>Research Scientist - Audio Understanding*
-            <p>*this is open at the time of posting, but may be filled by ISMIR!</p>
-        </td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/research-scientist-audio-understanding-3/">NYC</a>, 
-            <a href="https://www.spotifyjobs.com/job/research-scientist-audio-understanding/">Paris</a>, 
-            <a href="https://www.spotifyjobs.com/job/research-scientist-audio-understanding-2/">Berlin</a>
-        </td>
-        <td>Audio Intelligence</td>
-        <td>PhD</td>
-    </tr>
-    <tr>
-        <td>Machine Learning Research Scientist - Personalization</td>
-        <td><a href="https://www.spotifyjobs.com/job/machine-learning-research-scientist-personalization/">London</a></td>
-        <td>
-            <ul>
-                <li>Language Technologies</li>
-                <li>Human-Computer Interaction</li>
-                <li>Search & Recommendations</li>
-                <li>User Modeling</li>
-                <li>Machine Learning</li>
-                <li>Evaluation</li>
-                <li>Algorithmic Bias</li>
-            </ul>
-        </td>
-        <td>PhD</td>
-    </tr>
-    <tr>
-        <td>Data Research Scientist, Algorithmic Responsibility (Senior/Staff)</td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/data-research-scientist-algorithmic-responsibility-senior-staff-2/">San Francisco</a>
-        </td>
-        <td>Algorithmic Bias</td>
-        <td>8+ years relevant experience & PhD preferred</td>
-    </tr>
-    <tr>
-        <td>Researcher Algorithmic Impact & Responsibility (Senior/Staff)</td>
-        <td>
-            <a href="https://www.spotifyjobs.com/job/researcher-algorithmic-impact-responsibility-senior-staff-2/">San Francisco</a>
-        </td>
-        <td>Algorithmic Bias</td>
-        <td>PhD in relevant field, expertize in tech responsibility, & extensive leadership experience.</td>
-    </tr>
-    <tr>
-        <td>Research Lead - Personalization</td>
-        <td><a href="https://www.spotifyjobs.com/job/research-lead-personalization/">London</a></td>
-        <td>Search & Recommendations</td>
-        <td>10+ postdoctoral industry or academic experience</td>
-    </tr>
-</table>
-
-
-## Learn More
-
-
-![Spotify Greatest Hits 1]({{ site.baseurl }}/assets/img/virtual-booth-spotify/image1.jpg "Spotify Greatest Hits 1")
-
-![Spotify Greatest Hits 2]({{ site.baseurl }}/assets/img/virtual-booth-spotify/image4.jpg "Spotify Greatest Hits 2")
-
+-   [Information & Opportunities](https://github.com/chordify/ISMIR2020-industrybooth/blob/master/chordify_virtual_booth.md) flyer
 
 ---
 
 # Call for sponsors
-
 
 ISMIR 2020 offers sponsorship opportunities at the Platinum, Gold, Silver, and Bronze levels described below. By taking this opportunity to become a proud sponsor of the conference, you can showcase your company’s latest products to an international community of MIR researchers and practitioners, recruit top technical talent, and learn about state-of-the-art research and technologies in MIR.
 
@@ -420,5 +280,3 @@ Sponsors are encouraged to support a diverse and inclusive MIR community by cont
 | **Workshop Materials** | Printed materials plus swag | Printed materials plus swag | Printed materials only | Printed materials only |
 | **Workshop Table** | Yes | Yes | -- | -- |
 | **Other** | Blog post | -- | -- | -- | -->
-
-{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
