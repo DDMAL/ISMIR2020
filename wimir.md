@@ -119,4 +119,8 @@ We thank our generous WiMIR sponsors for 2020
 
 ![Pandora]({{site.baseurl}}/assets/img/wimir/sponsors/SiriusxmPandora.png)
 
+<br>
+
+![Chordify]({{site.baseurl}}/assets/img/wimir/sponsors/Chordify.png)
+
 ---
