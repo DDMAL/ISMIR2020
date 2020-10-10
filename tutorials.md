@@ -10,7 +10,7 @@ permalink: /tutorials/
 
 <div class="tutorial-subtitle">
   <div>Prototyping and Scaling Audio Research with Klio</div>
-  <div>Fallon Chen and Lynn Root</div>
+  <div>Fallon Chen, Lynn Root, Dan Simon, Shireen Kheradpey</div>
 </div>
 
 #### _Abstract_
