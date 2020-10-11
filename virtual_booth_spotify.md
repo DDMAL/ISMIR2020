@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Spotify
-# hero_background: sponsors/Spotify.png
 background_position: 0% 35% 
 permalink: /spotify/
 ---

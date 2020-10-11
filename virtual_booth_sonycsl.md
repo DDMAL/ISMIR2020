@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Sony / SonyCSL
-# hero_background: sponsors/Spotify.png
 background_position: 0% 35% 
 permalink: /sonycsl/
 ---
