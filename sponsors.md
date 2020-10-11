@@ -9,7 +9,7 @@ permalink: /sponsors/
 Virtual Booths:
 
 - [Spotify]({{ site.baseurl }}/spotify)
-<!-- - [Sony]({{ site.baseurl }}/sonycsl) -->
+- [Sony]({{ site.baseurl }}/sonycsl)
 - [ByteDance]({{ site.baseurl }}/bytedance)
 <!-- - [Adobe]({{ site.baseurl }}/adobe) -->
 
