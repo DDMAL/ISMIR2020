@@ -5,12 +5,9 @@ background_position: 0% 35%
 permalink: /bytedance/
 ---
 
-# About
+# Research at ByteDance
 
-Founded in 2012, ByteDance is a technology company operating a range of content platforms that inform, educate, entertain, and inspire people across language, culture. 
+Welcome to ByteDance booth! We're SAMI (Speech, Audio, and Music Intelligence) team at ByteDance AI Research lab. Over last 2+ years, we've been working on many exciting research projects from our London, California, and Beijing/Shanghai offices. The topics include MIR, intelligent music creation and production, speech analysis and synthesis, multi-modal understanding, audio understanding, and so on.
 
-Dedicated to building global platforms of creation and interaction, ByteDance now has over 60,000 global employees and a portfolio of applications available in over 150 markets and 75 languages, including Toutiao, Douyin, Xigua Video, TikTok, Helo, Lark, and more. 
-
-Our mission: Inspire Creativity and Enrich Life
-
-![ByteDance]({{ site.baseurl }}/assets/img/sponsors/ByteDance.png)
+# Hiring
+Please chat with us at [our slack channel](https://join.slack.com/share/zt-hy2tw1pj-nX0P26Zu43bg23wlwdB_fw)! We're hiring research scientists and research interns at multiple locations.
