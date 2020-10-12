@@ -20,6 +20,8 @@ permalink: /attendees/
 
 If you registered for ISMIR and did not receive a Slack invitation, please ensure that the email address you used to register is still active and that the message is not in your spam folder. Contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) with any updates or concerns. Thank you!
 
+---
+
 # ISMIR2020 Code of Conduct
 
 ISMIR2020 is committed to providing a harassment-free experience for everyone. All attendees, speakers, sponsors, and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
