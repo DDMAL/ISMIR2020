@@ -74,6 +74,10 @@ This work, &quot;ISMIR2020 Code of Conduct&quot;, is a derivative of &quot;[Conf
 
 ---
 
+# [Participant Guide]({{ site.baseurl }}/participant_guide)
+
+---
+
 # Registration
 
 ## ISMIR 2020 Registration Fees
