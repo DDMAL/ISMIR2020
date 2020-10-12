@@ -11,7 +11,7 @@ Adobe empowers the world to be creative. Audio is at the heart of a large class 
 
 Our work spans a number of audio research areas including music information retrieval, speech and music synthesis, speech enhancement, computational acoustics, spatial audio, audio event detection, and some topics that don't quite fit into a traditional audio research area. We also work on problems at the intersection of audio with video, augmented reality, and natural language processing, which naturally lend themselves to multi-modal learning. To advance all of these research areas, we develop new machine learning algorithms, novel signal processing algorithms, and new human computer interaction paradigms.
 
-![Adobe]({{site.baseurl}}/assets/img/virtual-booth-adobe/AdobeImage.jpg)
+![Adobe]({{site.baseurl}}/assets/img/virtual-booth-adobe/AdobeImage.png)
 
 ## Audio Research Internships
 
