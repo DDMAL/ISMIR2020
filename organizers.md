@@ -129,6 +129,11 @@ Bo Wen is a graduate student at the University of Rochester. He is very interest
 learning related to music and speech. This is the first time he has participated in ISMIR as a 
 volunteer and he hopes everything goes well.
 
+![Chahinez Hocine]({{ site.baseurl }}/assets/img/volunteers/Chahinez_Hocine.jpeg)
+Chahinez Hocine
+
+After graduating in 2019 in Pharmacy at the University of Algiers, Chahinez Hocine decided to specialize in Biotechnology. Indeed, she is currently doing a master's degree in health technology at ÉTS. As part of her master's degree, she is working on a research project on the development of an instrumented hearing protector: experimental validation and dosimetry, supervised by Professor Jérémie Voix and co-supervised by Franck Sgard and Professor Olivier Doutres.
+
 ![Chris Ick]({{ site.baseurl }}/assets/img/volunteers/Chris_Ick.jpg)
 *Chris Ick*
 
