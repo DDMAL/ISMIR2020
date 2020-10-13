@@ -140,7 +140,7 @@ Slack is mostly text based, but there are options for voice and video built in, 
 
 We've tried to prepare the ISMIR2020 slack with a number of useful channels to help keep the conference lively and navigable. Here are the different types to look out for:
 
--   Announcements: [#announce-official](https://ismir2020.slack.com/archives/C01AAM9QR98), [#announce-all](https://ismir2020.slack.com/archives/C01BWGM4QR0), and [#whats-on-now](https://ismir2020.slack.com/archives/C01ATLHDQ7P). Please do not leave of mute these channels as they are the most general way for us to keep you up-to-date on all the conference action.
+-   Announcements: [#announce-official](https://ismir2020.slack.com/archives/C01AAM9QR98), [#announce-all](https://ismir2020.slack.com/archives/C01BWGM4QR0), and [#whats-on-now](https://ismir2020.slack.com/archives/C01ATLHDQ7P). Please do not leave or mute these channels as they are the most general way for us to keep you up-to-date on all the conference action.
 
 -   [#announce-official](https://ismir2020.slack.com/archives/C01AAM9QR98): This channel is just for announcements from the ISMIR 2020 organisers. If it's posted here, it's important and maybe urgent.
 
@@ -154,7 +154,7 @@ We've tried to prepare the ISMIR2020 slack with a number of useful channels to h
 
 -   Poster channels: These #poster- channels host the discussion for each poster, whether asynchronously in the chat or face-to-face during the poster sessions. 
 
--   Sponsor channels: Top tier sponsors of ISMIR 2020 each have #sponsor- channels to share information with the community and invite conversation, so drop anytime!
+-   Sponsor channels: Top tier sponsors of ISMIR 2020 each have #sponsor- channels to share information with the community and invite conversation, so drop in anytime!
 
 -   Private channels: Besides the channels you can browse and join, there are channels to which people must be invited to participate. Create your own private space for your team or colleagues!
 
