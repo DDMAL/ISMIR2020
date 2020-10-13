@@ -84,7 +84,7 @@ Blocks were scheduled to ensure:
 - Elaine Chew
 - Estefanía Cano
 
-## Wednesday 15 October 2020
+## Thursday 15 October 2020
 
 - Rebecca Fiebrink
 - Anja Volk
