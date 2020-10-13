@@ -32,7 +32,7 @@ Virtual Booths:
  
 -   [Zoom Backgrounds](https://drive.google.com/drive/u/2/folders/1w7ObwNVTp285YHe6yft8SmjFn0AvMBwO) for attendees
 
-### ARCloud
+### ACRCloud
 
 -   [Link to Signup](https://console.acrcloud.com/signup) for a 14 day free trial (w/o needing to enter credit card info)
 
@@ -54,6 +54,10 @@ Virtual Booths:
 ### Chordify
 
 -   [Information & Opportunities](https://github.com/chordify/ISMIR2020-industrybooth/blob/master/chordify_virtual_booth.md) flyer
+
+### SiriusXM/Pandora
+
+-   [Internships](https://jobs.jobvite.com/siriusxm/search?t=Intern%20%28Fixed%20Term%29) and [job openings](https://jobs.jobvite.com/siriusxm/job/obH3cfwR). Reach out on Slack during ISMIR, or come talk to us during the Industry Meetup.
 
 ---
 
