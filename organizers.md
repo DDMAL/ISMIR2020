@@ -189,7 +189,7 @@ with a keen interest to transform her learnings into some positive changes.
 Dr. Kirthana Kunikullaya, MD (university topper) has over 10 years of experience as an Assistant Professor 
 at Ramaiah Medical College (RMC), Bangalore. She has been awarded Govt of India grants for stress-related 
 projects as Principal Investigator. She has about 20 peer-reviewed articles in indexed journals. She is a 
-trained Carnatic vocalist, and a founding trustee of Kalamshu ([www.kalamshu.org](www.kalamshu.org)). 
+trained Carnatic vocalist, and a founding trustee of Kalamshu ([www.kalamshu.org](http://www.kalamshu.org)). 
 
 ![Lidija Jovanovska]({{ site.baseurl }}/assets/img/volunteers/Lidija_Jovanovska.jpg)
 *Lidija Jovanovska*
