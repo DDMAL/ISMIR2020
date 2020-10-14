@@ -196,6 +196,11 @@ at Ramaiah Medical College (RMC), Bangalore. She has been awarded Govt of India 
 projects as Principal Investigator. She has about 20 peer-reviewed articles in indexed journals. She is a 
 trained Carnatic vocalist, and a founding trustee of Kalamshu ([www.kalamshu.org](http://www.kalamshu.org)). 
 
+![Kyle Robinson]({{ site.baseurl }}/assets/img/volunteers/Kyle_Robinson.jpg)
+Kyle Robinson
+
+Kyle is a Master's student at the Cheriton School of Computer Science at the University of Waterloo in Canada. His current research focusses on user-centric Music Recommendation Diversity, though he is easily distracted and has also dabbled in Computational Creativity, Machine Learning interpretability/education, and Music Information Retrieval. This is Kyle’s second ISMIR.
+
 ![Lidija Jovanovska]({{ site.baseurl }}/assets/img/volunteers/Lidija_Jovanovska.jpg)
 *Lidija Jovanovska*
 
