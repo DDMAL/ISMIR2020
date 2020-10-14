@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Awards
-hero_background: waved_bookshelf.jpg
+# hero_background: waved_bookshelf.jpg
 background_position: 0% 70%
 permalink: /awards/
 ---
