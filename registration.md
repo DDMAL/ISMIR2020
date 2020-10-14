@@ -48,36 +48,22 @@ The publication fee is non-refundable.
 
 [http://dlfm.web.ox.ac.uk/](http://dlfm.web.ox.ac.uk/)
 
-You can register for DLfM using the [ISMIR registration form](https://fourwav.es/ISMIR-2020/registration).
-
-If you have already registered for ISMIR, you can sign in to your registration with your email address and update it to include your DLfM registration and payment.
-
-If you wish to attend DLfM but *not* ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
-
-| Fees for DLfM                                   | Amount (CAD) |
-|-------------------------------------------------|:------------:|
-| Presenter fees (includes conference attendance) | $95          |
-| Standard attendance                             | $15          |
-| Reduced attendance                              | $5           |
+Registration for DLfM is now closed! Thank you!
 
 ### Natural Language Processing for Music and Audio (NLP4MusA), 16 October 2020
 
 [https://sites.google.com/view/nlp4musa](https://sites.google.com/view/nlp4musa)
 
-NLP4MusA will be FREE this year! Please [register through the ISMIR form](https://fourwav.es/ISMIR-2020/registration).
-
-If you have already registered for ISMIR, you can sign in to your registration with your email address and update it to include your NLP4MusA registration.
-
-If you wish to attend NLP4MusA but *not* ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
+Registration for NLP4MusA is now closed! Thank you!
 
 ### HAMR (Hacking Audio and Music Research), 16--17 October 2020
 
 [HAMR main page]({{ site.baseurl }}/hamr/)
 
-Participation in HAMR is also free! The steps to register are the same as for NLP4MusA above: [register through the ISMIR form](https://fourwav.es/ISMIR-2020/registration).
+Participation in HAMR is also free! You can [register through the ISMIR form](https://fourwav.es/ISMIR-2020/registration).
 
 If you have already registered for ISMIR, you can sign in to your registration with your email address and update it to include your HAMR registration.
 
-If you wish to attend HAMR but *not* ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
+If you wish to attend HAMR but not ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
 
 {% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
