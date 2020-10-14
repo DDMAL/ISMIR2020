@@ -216,13 +216,13 @@ Music is one obsession of humans, and so is technological progress. Both have al
 
 For ISMIR 2020, we want to provide an insight into the journey of an artist discovering AI. Donn Healy has been working with us, he has devoted himself to the exploration of AI use in music, producing 12 tracks using our technology.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JdxfuBXSlmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uPvnpZ7mHCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 He also deconstructs one of the tracks he produced, to talk about the different tools he used.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pT_98ecFjVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1luYzomtf9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -269,15 +269,7 @@ Even though the user interfaces and the plugins cannot be shared publicly, we us
 
 (Icons are clickable)
 
-<a href="https://www.twitter.com/sonycslmusic/" class="fa fa-twitter"></a> @SonyCSLMusic
-<a href="https://www.instagram.com/sonycslmusic/" class="fa fa-instagram"></a> @SonyCSLMusic
-<a href="https://www.facebook.com/SonyCSLMusicTeam" class="fa fa-facebook"></a> @SonyCSLMusicTeam 
-<a href="https://www.linkedin.com/company/sony-csl-music-team/" class="fa fa-linkedin"></a> Sony CSL Music Team
-
-
-
-<!-- 
-|<a href="https://www.twitter.com/sonycslmusic/" class="fa fa-twitter"></a>|<a href="https://www.instagram.com/sonycslmusic/" class="fa fa-instagram"></a>|<a href="https://www.facebook.com/SonyCSLMusicTeam" class="fa fa-facebook"></a> |<a href="https://www.linkedin.com/company/sony-csl-music-team/" class="fa fa-linkedin"></a> |
-|:---:|:---:|:---:|:---:|
-|@SonyCSLMusic|@SonyCSLMusic|@SonyCSLMusicTeam|Sony CSL Music Team| -->
-
+<a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.twitter.com_sonycslmusic_&amp;d=DwMGAw&amp;c=slrrB7dE8n7gBJbeO0g-IQ&amp;r=W0y5Ok2iUjkLB7LutKcktg&amp;m=fxydja4hJvtD8Igl1MaWCoPLeOov9-_Vtjm5xHJPSSQ&amp;s=AaweliHi3Zu0WTLc743IoXuzujTMfmTZKy19LZI3964&amp;e=" class="fa fa-twitter"></a> @SonyCSLMusic
+<a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.instagram.com_sonycslmusic_&amp;d=DwMGAw&amp;c=slrrB7dE8n7gBJbeO0g-IQ&amp;r=W0y5Ok2iUjkLB7LutKcktg&amp;m=fxydja4hJvtD8Igl1MaWCoPLeOov9-_Vtjm5xHJPSSQ&amp;s=ygCsLh6L4MbI3Jpk-sWcvGUu-zm6rt6Y02IamtPwFwg&amp;e=" class="fa fa-instagram"></a> @SonyCSLMusic
+<a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.facebook.com_SonyCSLMusicTeam&amp;d=DwMGAw&amp;c=slrrB7dE8n7gBJbeO0g-IQ&amp;r=W0y5Ok2iUjkLB7LutKcktg&amp;m=fxydja4hJvtD8Igl1MaWCoPLeOov9-_Vtjm5xHJPSSQ&amp;s=f-VmEMG6As2Q5JIu4ujIWRqYNoHvFuqaIxlakFL5xDo&amp;e=" class="fa fa-facebook"></a> @SonyCSLMusicTeam 
+<a href="https://urldefense.proofpoint.com/v2/url?u=https-3A__www.linkedin.com_company_sony-2Dcsl-2Dmusic-2Dteam_&amp;d=DwMGAw&amp;c=slrrB7dE8n7gBJbeO0g-IQ&amp;r=W0y5Ok2iUjkLB7LutKcktg&amp;m=fxydja4hJvtD8Igl1MaWCoPLeOov9-_Vtjm5xHJPSSQ&amp;s=mqAeyU4EFL1jrp9WsH-goG2dqV9PrPzH_YO4QEal6ww&amp;e=" class="fa fa-linkedin"></a> Sony CSL Music Team
