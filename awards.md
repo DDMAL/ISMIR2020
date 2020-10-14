@@ -53,6 +53,22 @@ Albin Correya, Dmitry Bogdanov, Luis Joglar-Ongay, Xavier Serra
 
 ---
 
+# Best reviewer awards
+
+- Ashis Pati
+- Nicholas J. Bryan
+- Reinier de Valk 
+- Daniel Stoller
+- David Sears 
+- Eric Nichols 
+- François Germain 
+- Marcelo Caetano 
+- Maximilian Schmitt 
+- Stefanos Kalonaris 
+- Marko Tkalcic
+- Andy Sarroff 
+- Philippe Esling
+
 # Chosen by the public
 
 Coming up soon!
