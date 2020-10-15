@@ -13,6 +13,8 @@ permalink: /awards/
 
 Shunit Haviv Hakimi, Nadav Bhonker, Ran El-Yaniv 
 
+**Awarded with [Steinberg Wavelab](https://new.steinberg.net/wavelab/)!**
+
 --- 
 
 ## Best Application:
@@ -74,6 +76,8 @@ Albin Correya, Dmitry Bogdanov, Luis Joglar-Ongay, Xavier Serra
 
 Seth Thorn
 
+**Awarded with [Steinberg Cubase 10.5](https://new.steinberg.net/cubase/)!**
+
 ---
 
 ## 2nd place
@@ -87,4 +91,3 @@ Takuto Fukuda
 ### [I'll Marry You, Punk Come](https://program.ismir2020.net/music_416.html)
 
 CJ Carr, Zack Zukowski, Rania Kim
-
