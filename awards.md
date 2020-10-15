@@ -6,7 +6,7 @@ background_position: 0% 70%
 permalink: /awards/
 ---
 
-# Chosen by the Program Chairs
+# Scientific Committee Awards
 
 ---
 
