@@ -8,8 +8,6 @@ permalink: /awards/
 
 # Scientific Committee Awards
 
----
-
 ## Best Research:
 ### [BebopNet: Deep Neural Models for Personalized Jazz Improvisations](https://program.ismir2020.net/poster_6-08.html)
 
@@ -69,6 +67,24 @@ Albin Correya, Dmitry Bogdanov, Luis Joglar-Ongay, Xavier Serra
 - Andy Sarroff 
 - Philippe Esling
 
-# Chosen by the public
+# Music Awards
 
-Coming up soon!
+## 1st place
+### [A Room with Chaconne (Bach)](https://program.ismir2020.net/music_389.html)
+
+Seth Thorn
+
+---
+
+## 2nd place
+### [Super Colliders](https://program.ismir2020.net/music_411.html)
+
+Takuto Fukuda
+
+---
+
+## 3rd place
+### [I'll Marry You, Punk Come](https://program.ismir2020.net/music_416.html)
+
+CJ Carr, Zack Zukowski, Rania Kim
+
