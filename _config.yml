@@ -22,6 +22,7 @@ navigation: # Navigation links
   # - {name: 'Home', link: '/'}
   - {name: 'Program', link: 'https://program.ismir2020.net'}
   - {name: 'Proceedings', link: '/assets/img/proceedings/2020_ISMIR_Proceedings.pdf'}
+  - {name: 'Awards', link: '/awards'}
   - {name: 'For Attendees', link: '/attendees'}
   - {name: 'For Presenters', link: '/presenters'}
   - {name: 'Events', link: '/events'}
