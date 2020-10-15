@@ -40,7 +40,7 @@ Cancellations made before 1 October 2020 will receive a full refund minus the ad
 
 The publication fee is non-refundable.
 
-## [Register here!](https://fourwav.es/ISMIR-2020/registration)
+**Registration for ISMIR is now closed! Thank you!**
 
 ## New! ISMIR Satellite Conferences registration
 
@@ -60,10 +60,6 @@ Registration for NLP4MusA is now closed! Thank you!
 
 [HAMR main page]({{ site.baseurl }}/hamr/)
 
-Participation in HAMR is also free! You can [register through the ISMIR form](https://fourwav.es/ISMIR-2020/registration).
-
-If you have already registered for ISMIR, you can sign in to your registration with your email address and update it to include your HAMR registration.
-
-If you wish to attend HAMR but not ISMIR, please contact [ismir2020-registration@ismir.net](mailto:ismir2020-registration@ismir.net) for an ISMIR fee waiver code to bypass that part of the form.
+Registration for HAMR is now closed! Thank you!
 
 {% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
