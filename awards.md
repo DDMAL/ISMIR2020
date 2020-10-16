@@ -91,3 +91,37 @@ Takuto Fukuda
 ### [I'll Marry You, Punk Come](https://program.ismir2020.net/music_416.html)
 
 CJ Carr, Zack Zukowski, Rania Kim
+
+---
+
+# Popular Vote Paper Awards
+
+## Best Poster Presentation (Sessions 1-3): 
+### [Hierarchical Musical Instrument Separation](https://program.ismir2020.net/poster_3-07.html)
+
+Ethan Manilow, Gordon Wichern, Jonathan LeRoux 
+
+---
+
+## Best Poster Presentation (Sessions 4-6): 
+### [Detecting Collaboration Profiles in Success-based Music Genre Networks](https://program.ismir2020.net/poster_5-13.html)
+
+Gabriel Oliveira, Mariana Santos, Danilo B Seufitelli, Anisio Lacerda, Mirella M Moro 
+
+---
+
+## Best Video (Sessions 1-3): 
+### [Hierarchical Musical Instrument Separation](https://program.ismir2020.net/poster_3-07.html)
+
+Ethan Manilow, Gordon Wichern, Jonathan LeRoux 
+
+---
+
+## Best Video (Sessions 4-6):
+### [Less Is More: Faster and Better Music Version Identification with Embedding Distillation](https://program.ismir2020.net/poster_6-15.html)
+
+Furkan Yesiler, Joan Serra, Emilia Gomez
+
+## Most Active Conference Attendee: 
+
+Sertan Şentürk
