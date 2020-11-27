@@ -32,8 +32,8 @@ Research crossing the fields of network science and MIR & musicology is relative
 #### 2. Change The Way You Listen
 
 - By [İdil Sülo](https://idilsulo.github.io/)
-- Links to [Video](https://youtu.be/lMvLhuDUTA4), [Code](https://github.com/idilsulo/change-the-way-you-listen)
-[Website](changethewayyoulisten.pythonanywhere.com/)
+- Links to [Video](https://youtu.be/lMvLhuDUTA4), [Code](https://github.com/idilsulo/change-the-way-you-listen) and 
+[Website](http://www.changethewayyoulisten.com)
 
 Change The Way You Listen helps you create playlists based on your top listened artists in the last month using certain tracks properties such as danceability, energy, tempo and so on. It also shows you your own personal listening analysis based on the top artists that you had listened in the past 6 months.
 
