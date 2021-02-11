@@ -2,6 +2,27 @@ hr {
   background: #dcdcdc;
 }
 
+.exit-report-wrapper {
+  position: absolute;
+  display: inherit;
+  top: -110px;
+  right: 0;
+  background-color: #F07D00;
+  border-radius: 4px;
+  z-index: 5;
+  padding: 8px 12px;
+  color: white;
+  margin-bottom: 2.25rem;
+  &:hover {
+    color: white;
+    background-color: #ce6c02;
+  }
+  @media (max-width: 768px) {
+    position: initial;
+  }
+}
+
+
 .post-card {
   display: block;
   position: relative;
