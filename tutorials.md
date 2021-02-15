@@ -58,6 +58,9 @@ Professor Dr. **Nico Schüler** (b. 1970), is University Distinguished Professor
   <div>Brian McFee, Jongpil Lee, Juhan Nam</div>
 </div>
 
+#### _Tutorial Website_
+<https://github.com/bmcfee/ismir2020-metric-learning>
+
 #### _Abstract_
 
 Metric learning is a paradigm of representation learning, in which proximity between the representations of items is optimized to correspond to a notion of similarity. Compared to the classification, metric learning can leverage more flexible forms of supervision, for example, two audio clips belong to the same artist or not, or have the same tempo or not. This enables the learning model to take a large or indefinite number of classes. Moreover, metric learning handles the embedding space directly by measuring the distance between the transformations of different examples. This facilitates usage of different domains or modalities of inputs in the same framework (e.g., audio embedding in one input and word embedding in another input). Such flexible and adaptable characteristics of metric learning have been enjoyed in many of machine learning tasks, particularly, similarity-based content retrieval. In recent years, interest in metric learning from the MIR community has also increased. Considering the multi-faceted and hierarchical-level of notions in similarity (e.g., semantic-level, score-level or audio-level) and diverse forms of data (e.g., audio, MIDI, text labels, lyrics, album covers, and user data), we see a great potential of metric learning in music. Therefore, introducing the method in an educational manner and surveying recent progress will be timely and helpful to relevant researchers. In this tutorial, we plan to present three lectures as follows:
@@ -80,6 +83,9 @@ Metric learning is a paradigm of representation learning, in which proximity bet
   <div>Open-Source Tools & Data for Music Source Separation: A Practical Guide for the MIR Practitioner</div>
   <div>Ethan Manilow, Prem Seetharaman, Justin Salamon</div>
 </div>
+
+#### _Tutorial Website_
+<https://source-separation.github.io/tutorial/landing.html>
 
 #### _Abstract_
 
@@ -110,6 +116,9 @@ Our tutorial is aimed at researchers and practitioners that are familiar with au
   <div>Version Identification in the 20s</div>
   <div>Furkan Yesiler, Christopher Tralie, Joan Serrà</div>
 </div>
+
+#### _Tutorial Slides_
+<https://docs.google.com/presentation/d/17GDjTE9GV0cWxpYlsiXLvgPkVAg70Ho4RwPUyyL-j0U/edit?usp=sharing>
 
 #### _Abstract_
 
