@@ -19,9 +19,9 @@ pages = [
 template = '''\
 <!doctype html>
 <meta charset="utf-8">
-<title>Redirecting to https://ismir2020.ismir.net/{0}</title>
-<meta http-equiv="refresh" content="0; url=https://ismir2020.ismir.net/{0}">
-<link rel="canonical" href="https://ismir2020.ismir.net/{0}">\
+<title>Redirecting to http://ismir2020.ismir.net/{0}</title>
+<meta http-equiv="refresh" content="0; url=http://ismir2020.ismir.net/{0}">
+<link rel="canonical" href="http://ismir2020.ismir.net/{0}">\
 '''
 
 if __name__ == '__main__':
